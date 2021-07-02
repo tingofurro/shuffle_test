@@ -17,6 +17,10 @@ We provide the scripts to reproduce experimental results:
 - `run_gpt2_zeroshot.py`: is the script to run the zero-shot NLG models of the GPT2 type. It can be used to run various sizes of GPT2 architectures (base, medium, large).
 - `run_bidir_zeroshot.py`: is the script to run NLU models of the BERT type. It can be used to run the `bert-base-uncased` and `roberta-base` experiments from the paper.
 
+## Release
+
+In the [release](https://github.com/tingofurro/shuffle_test/releases/tag/0.1), we provide the `roberta-large` checkpoint of the model we supervised to perform the shuffle test. It can be used in conjunction with the `run_supervised.py` script.
+
 ## Cite the work
 
 If you make use of the code, models, or algorithm, please cite our paper:
