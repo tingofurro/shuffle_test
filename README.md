@@ -3,7 +3,7 @@
 Codebase, data and models for the [Re-Thinking the Shuffle Test](https://people.eecs.berkeley.edu/~phillab/pdfs/ACL2021_Coherence_Shuffle.pdf) paper at ACL2021.
 
 <p align="center">
-  <img width="450" height="363" src="https://people.eecs.berkeley.edu/~phillab/images/acl2021_coherence.png">
+  <img width="450" height="363" src="https://tingofurro.github.io/images/acl2021_coherence.png">
 </p>
 
 ## Datasets
